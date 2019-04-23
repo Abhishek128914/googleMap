@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity implements
 
     private static final String TAG = "MainActivity";
 
+
     //widgets
     private ProgressBar mProgressBar;
 
